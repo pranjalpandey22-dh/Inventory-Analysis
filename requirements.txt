@@ -9,7 +9,7 @@ astroid==2.6.6
 async-generator==1.10
 atomicwrites==1.4.0
 attrs==21.2.0
-autopep8==1.6.0
+autopep8
 Babel==2.9.1
 backcall==0.2.0
 base58==2.1.1
@@ -37,7 +37,7 @@ defusedxml==0.7.1
 diff-match-patch==20200713
 docutils==0.17.1
 entrypoints==0.3
-flake8==3.9.2
+flake8
 fonttools==4.25.0
 gitdb==4.0.9
 GitPython==3.1.24
@@ -99,7 +99,7 @@ protobuf==3.19.1
 psutil==5.8.0
 ptyprocess==0.7.0
 pyarrow==6.0.1
-pycodestyle==2.8.0
+pycodestyle
 pycparser==2.21
 pydeck==0.7.1
 pydocstyle==6.1.1
