@@ -73,10 +73,12 @@ MarkupSafe
 matplotlib
 matplotlib-inline
 mccabe
+millify
 mistune
 mkl-fft
 mkl-random
 mkl-service
+mplcursors
 munkres
 mypy-extensions
 nbclient
