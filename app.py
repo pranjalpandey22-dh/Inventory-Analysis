@@ -77,16 +77,6 @@ client = bigquery.Client(credentials=credentials)
 # ===========================================================================================================================================
 
 ## Tha Main Query for Overall page ==========================================================================================================
-"""
-with st.spinner("Mixing all the packs and potions..!"):
-    
-    if 'overall_lastmonth_results' not in st.session_state:
-        st.session_state.overall_lastmonth_results = run_query(
-            client, 
-            read_sql_file(
-                'main_query.sql')
-            )
-"""
 if 'overall_lastmonth_results' not in st.session_state:
     
     with st.spinner("Mixing all the packs and potions..!"):
