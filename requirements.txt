@@ -58,7 +58,6 @@ ipython
 ipython-genutils
 ipywidgets
 isort
-itertools
 jedi
 Jinja2
 jinja2-time
