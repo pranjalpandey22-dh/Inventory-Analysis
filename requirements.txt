@@ -13,6 +13,7 @@ autopep8
 Babel
 backcall
 base58
+base64
 bcrypt
 binaryornot
 black
@@ -31,6 +32,7 @@ colorama
 cookiecutter
 cryptography
 cycler
+datetime
 debugpy
 decorator
 defusedxml
@@ -46,6 +48,7 @@ google-cloud
 google-cloud-bigquery
 gitdb
 GitPython
+hydralit_components
 idna
 imagesize
 importlib-metadata
@@ -56,6 +59,7 @@ ipython
 ipython-genutils
 ipywidgets
 isort
+itertools
 jedi
 Jinja2
 jinja2-time
