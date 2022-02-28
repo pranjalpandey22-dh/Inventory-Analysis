@@ -98,6 +98,7 @@ pexpect
 pickleshare
 Pillow
 pip
+plotly
 pluggy
 poyo
 prometheus-client
