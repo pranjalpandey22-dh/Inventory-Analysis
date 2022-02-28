@@ -13,7 +13,6 @@ autopep8
 Babel
 backcall
 base58
-base64
 bcrypt
 binaryornot
 black
