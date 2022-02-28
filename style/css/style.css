@@ -1,0 +1,33 @@
+#metricbox{
+    width:250px;
+    height:100px;
+    border:2px solid #FF5A00;
+}
+
+/*.element-container.css-2s9nqs.e1tzin5v1{
+   border: 2px solid #FF5A00
+}*/
+
+[data-testid="metric-container"]{
+  border: 2px solid #FF5A00
+}
+
+[data-testid="stMetricLabel"]{
+  text-align: center
+}
+
+[data-testid="stMetricValue"]{
+  text-align: center
+}
+
+/*[data-testid="stImage"]{
+  border: 2px solid #FF5A00
+}*/
+
+/*.css-1kyxreq.etr89bj0{
+  border: 2px solid #FF5A00
+}*/
+
+.stPlotlyChart.js-plotly-plot{
+  border: 2px solid #FF5A00
+}
