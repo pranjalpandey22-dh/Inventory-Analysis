@@ -78,7 +78,7 @@ SELECT
   net_fail_order_count,
   net_order_count,
   vendor_delay,
-  SAFE_DIVIDE(net_fail_order_count, net_order_count) * 100 AS net_fail_rate
+  SAFE_DIVIDE(net_fail_order_count, net_order_count) * 100 AS fail_rate
 FROM 
   active_vendors 
   RIGHT JOIN vendor_daily_performance USING(vendor_id)
